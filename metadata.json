@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Statistics Laboratory",
+  "description": "An interactive educational portal for learning probability distributions and statistical concepts with simulations and calculators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
